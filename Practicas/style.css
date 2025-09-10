@@ -1,0 +1,53 @@
+#mybody {
+background-color: rgba(126, 246, 255, 0.288);
+}
+#myh1{
+     color: rgb(0, 255, 213);
+     text-align: center;
+     text-shadow: 0svi;  
+}
+#myh2{
+    color: rgb(4, 85, 85);
+    text-align: justify;
+    text-decoration-line: underline;
+}
+#myh3{
+    color:rgb(4, 93, 109) ;
+    text-align: justify;
+    font: bolder;
+}
+#mybody2{
+    background-color: powderblue;
+}
+#myh12{
+     color: #002418;
+
+}
+#myh22{
+    color: cadetblue;
+}
+#mydiv{
+    max-width: 400px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 50px;
+    border: 10px
+}
+.biografia{
+    max-width: 5%;
+    background-color: cornflowerblue;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dato{
+    margin: 10px 0;
+    font-size: 18px;   
+}
+.etiqueta{
+    font-weight: bold;
+    color: #000000;
+}
+.valor{
+    color: black;
+}
