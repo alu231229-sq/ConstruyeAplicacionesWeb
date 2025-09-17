@@ -1,0 +1,33 @@
+.body{
+    background-color: powderblue;
+}
+.img{
+    width: 200px;
+    height: 200px;    
+}
+.div{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    color: darkcyan;
+}
+.h2{
+    text-align: center;
+    color: aqua;
+}
+.h12{
+    text-align: left;
+    color: darkcyan;
+}
+.h3{
+    text-align: center;
+    color: rgb(55, 90, 78);
+}
+.p{
+    text-align: center;
+    color: #005858;
+}
+.p2{
+    color: #005858;
+}
